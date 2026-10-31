@@ -10,9 +10,11 @@
                     "modules/general/wrapper-package-id/module.json"
                 ],
     "profiles":  [
-                     "profiles/com.joydo.minestrikenew/3.0.2.json"
+                     "profiles/com.joydo.minestrikenew/3.0.2.json",
+                     "profiles/com.dts.freefireth/1.30.0.json"
                  ],
     "apps":  [
-                 "apps/com.joydo.minestrikenew.json"
+                 "apps/com.joydo.minestrikenew.json",
+                 "apps/com.dts.freefireth.json"
              ]
 }
